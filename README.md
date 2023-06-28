@@ -1,5 +1,7 @@
 # Dice-game 
 
+REFRESH ME!
+
 https://anmol-sonwane.github.io/Dice-game/
 
 ![image](https://github.com/Anmol-Sonwane/Dice-game/assets/84391825/c31bc4ca-72b0-428d-bb15-49895de2707b)
